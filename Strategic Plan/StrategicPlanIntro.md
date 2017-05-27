@@ -75,7 +75,7 @@ Revised April 17, 2017
 *	Define each program done in partnership with the UCF graduate program 
 *	Develop a program to sustain programs with organizations like Edgewood Children’s Ranch, Evans High School, City of Orlando Rec Centers and so on
 
-#### UCF PARTNERSHIP:
+#### UCF PARTNERSHIP
 *	Continue to include the TYA Grad Students in as many aspects of the operation as possible
 *	Ensure faculty are made aware of opportunities for them as well as the students
 *	Explore expanding UCF partnership to include more undergrad  students 
