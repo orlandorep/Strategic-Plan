@@ -46,7 +46,7 @@ Revised April 17, 2017
 *	Publicize measurable impact on students and teachers
 *	Expand funding for programs such as “No Empty Bus”
 
-#### UCF PARTNERSHIP:
+#### UCF PARTNERSHIP
 *	Provide TYA UCF Graduate students with more areas of learning
 *	UCF Celebrates the ARTS at DPAC illustrating the value of partnership
 *	Continue to provide production experience opportunities to undergraduate students with ongoing opportunities and interaction with staff
