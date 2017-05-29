@@ -1,4 +1,4 @@
 # Orlando Rep Strategic Plan
-## Finance
+## Finance Plan
 
 This is where the Finance plan will go.
