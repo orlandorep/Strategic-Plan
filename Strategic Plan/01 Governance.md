@@ -1,4 +1,4 @@
 # Orlando Rep Strategic Plan
-## Governance
+## Governance Plan
 
 This is where information about Governance would go.  
